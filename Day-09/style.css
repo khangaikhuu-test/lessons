@@ -1,0 +1,21 @@
+/* .text-1{
+    display: inline-block;
+}
+
+.text-sub{
+    display: inline-block;
+}
+
+.text-2{
+    display: inline-block;
+} */
+
+.container{
+    display: flex;
+}
+
+.text-1 {
+    display: flex;
+}
+
+
